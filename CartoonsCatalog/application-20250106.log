@@ -1,0 +1,753 @@
+2025-01-06 20:40:08.985 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 20:45:14.109 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 20:45:14.113 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 20:50:33.751 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 20:50:33.755 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 20:54:15.570 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 20:54:15.572 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 20:54:23.572 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 20:54:29.889 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 20:58:57.951 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 20:58:57.954 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 20:58:58.027 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 20:59:15.480 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 20:59:15.507 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 20:59:22.330 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 20:59:22.352 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 20:59:36.542 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 20:59:36.573 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:03:46.398 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:03:46.401 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:03:46.507 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:04:03.771 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:04:03.789 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:06:21.261 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:06:21.264 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:06:21.367 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:06:21.368 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:10:04.196 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:10:04.200 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:10:04.304 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:10:04.305 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:10:17.157 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:10:17.178 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:10:17.179 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:11:10.317 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:11:10.320 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:11:10.430 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:11:10.431 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:11:10.431 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: 0
+2025-01-06 21:11:57.277 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:11:57.281 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:11:57.415 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:11:57.416 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:12:58.600 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:12:58.603 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:12:58.701 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:12:58.702 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:12:58.702 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: 0
+2025-01-06 21:14:06.147 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:14:06.150 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:14:06.254 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:14:06.255 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:14:06.259 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:16:34.755 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:16:34.758 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:16:34.863 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:16:34.864 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:16:34.867 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:20:39.559 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:20:39.562 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:20:39.664 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:20:39.665 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:20:39.668 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:22:51.583 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:22:51.586 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:22:51.682 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:22:51.683 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:22:51.687 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:22:51.689 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:22:51.689 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:22:51.690 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:22:51.691 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:22:51.691 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:22:51.691 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:22:51.691 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:22:51.692 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:22:51.693 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:22:51.694 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:22:51.695 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:22:51.696 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:22:51.696 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:22:51.696 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:22:51.696 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:22:51.696 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:22:51.697 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:22:51.697 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:22:51.697 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:23:26.535 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:23:26.564 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:23:26.565 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:23:26.565 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:23:26.565 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:23:26.566 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:23:26.566 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:23:26.566 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:23:26.567 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:23:26.567 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:23:26.567 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:23:26.568 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:23:26.569 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:23:26.569 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:23:26.569 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:23:26.570 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:23:26.570 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:23:26.570 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:23:26.570 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:23:26.571 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:23:26.571 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:23:26.571 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:23:26.571 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:23:26.572 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:23:26.572 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:23:26.572 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:23:26.572 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:23:26.573 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:23:26.573 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:23:26.573 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:23:26.574 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:23:26.574 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:23:26.574 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:23:26.575 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:23:26.575 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:23:26.575 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:23:26.576 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:23:26.576 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:25:25.079 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:25:25.083 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:25:25.187 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:25:25.187 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:25:25.190 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:25:25.191 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:25:25.191 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:25:25.193 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:25:25.193 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:25:25.193 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:25:25.194 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:25:25.194 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:25:25.194 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:25:25.194 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:25:25.194 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:25:25.195 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:25:25.195 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:25:25.195 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:25:25.195 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:25:25.195 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:25:25.196 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:25:25.197 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:25:25.198 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:25:25.198 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:25:25.198 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:25:25.198 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:25:25.198 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:25:25.199 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:25:25.199 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:25:25.199 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:25:25.199 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:25:25.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:25:25.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:25:25.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:25:25.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:25:25.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:25:25.201 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:25:25.201 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:25:25.201 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:25:46.086 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:25:46.107 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:25:46.108 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:25:46.108 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:25:46.109 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:25:46.111 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:25:46.111 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:25:46.111 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:25:46.111 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:25:46.111 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:25:46.112 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:25:46.112 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:25:46.112 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:25:46.112 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:25:46.113 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:25:46.114 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:25:46.114 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:25:46.114 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:25:46.114 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:25:46.115 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:25:46.115 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:25:46.115 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:25:46.115 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:25:46.115 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:25:46.116 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:25:46.116 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:25:46.116 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:25:46.116 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:25:46.117 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:25:46.117 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:25:46.117 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:25:46.117 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:25:46.117 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:25:46.118 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:25:46.119 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:25:46.119 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:25:46.119 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:25:46.119 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:25:46.119 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:25:49.484 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:25:49.503 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:25:49.503 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:25:49.504 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:25:49.504 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:25:49.504 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:25:49.504 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:25:49.505 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:25:49.506 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:25:49.506 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:25:49.506 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:25:49.506 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:25:49.506 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:25:49.507 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:25:49.508 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:25:49.509 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:25:49.510 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:25:49.510 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:25:49.511 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:25:49.511 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:25:49.511 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:25:49.511 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:28:07.908 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:28:07.912 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:28:08.021 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:28:08.022 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:28:08.025 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:28:08.028 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:28:08.028 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:28:08.031 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:28:08.031 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:28:08.031 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:28:08.032 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:28:08.032 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:28:08.032 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:28:08.033 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:28:08.033 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:28:08.033 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:28:08.034 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:28:08.034 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:28:08.034 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:28:08.035 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:28:08.036 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:28:08.036 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:28:08.036 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:28:08.037 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:28:08.037 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:28:08.037 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:28:08.038 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:28:08.038 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:28:08.038 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:28:08.038 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:28:08.039 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:28:08.039 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:28:08.039 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:28:08.040 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:28:08.040 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:28:08.040 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:28:08.040 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:28:08.040 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:28:08.041 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:28:08.042 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:28:40.964 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:28:40.984 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:28:40.984 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:28:40.985 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:28:40.985 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:28:40.985 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:28:40.985 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:28:40.986 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:28:40.986 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:28:40.986 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:28:40.987 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:28:40.987 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:28:40.987 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:28:40.987 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:28:40.988 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:28:40.988 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:28:40.988 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:28:40.988 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:28:40.988 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:28:40.989 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:28:40.989 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:28:40.989 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:28:40.989 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:28:40.990 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:28:40.990 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:28:40.990 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:28:40.990 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:28:40.990 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:28:40.991 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:28:40.991 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:28:40.991 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:28:40.991 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:28:40.991 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:28:40.992 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:28:40.992 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:28:40.992 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:28:40.992 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:28:40.993 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:28:40.993 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:28:40.993 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:28:40.994 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:28:40.994 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:28:40.994 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:28:40.994 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:29:02.710 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:29:02.728 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:29:02.729 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:29:02.729 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:29:02.729 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:29:02.729 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:29:02.729 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:29:02.730 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:29:02.731 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:29:02.731 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:29:02.731 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:29:02.731 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:29:02.731 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:29:02.732 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:29:02.733 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:29:02.734 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:29:02.734 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:29:02.734 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:29:02.734 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:29:02.734 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:29:02.735 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:29:02.735 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:29:02.735 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:29:02.735 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:29:02.735 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:29:02.736 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:29:02.736 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:29:02.736 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:29:02.736 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:29:02.737 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:29:02.737 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:29:02.737 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:29:02.737 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:29:02.738 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:29:09.137 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:29:09.157 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:29:09.157 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:29:09.157 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:29:09.158 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:29:09.158 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:29:09.158 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:29:09.159 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:29:09.160 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:29:09.160 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:29:09.160 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:29:09.160 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:29:09.160 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:29:09.162 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:29:09.163 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:29:09.163 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:29:09.163 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:29:09.163 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:29:09.164 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:29:09.164 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:29:09.164 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:29:09.165 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:29:09.166 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:29:09.166 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:29:09.167 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:29:09.167 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:29:09.167 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:29:09.167 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:29:09.168 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:29:09.168 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:29:09.168 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:29:09.169 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:29:09.169 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:29:09.169 [Thread-10] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:30:53.261 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:30:53.263 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:30:53.367 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:30:53.368 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:30:53.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:30:53.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:30:53.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:30:53.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:30:53.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:30:53.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:30:53.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:30:53.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:30:53.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:30:53.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:30:53.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:30:53.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:30:53.378 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:30:53.378 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:30:53.378 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:30:53.378 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:30:53.378 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:30:53.379 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:30:53.380 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:30:53.380 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:30:53.380 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:30:53.380 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:30:53.381 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:30:53.381 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:30:53.381 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:30:53.381 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:30:53.381 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:30:53.382 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:30:53.382 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:30:53.382 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:30:53.382 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:32:49.257 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:32:49.260 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:32:49.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:32:49.357 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:32:49.361 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:32:49.362 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:32:49.362 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:32:49.365 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:32:49.365 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:32:49.366 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:32:49.366 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:32:49.366 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:32:49.367 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:32:49.367 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:32:49.367 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:32:49.368 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:32:49.368 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:32:49.368 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:32:49.369 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:32:49.369 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:32:49.369 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:32:49.369 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:32:49.370 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:32:49.370 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:32:49.370 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:32:49.370 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:32:49.371 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:32:49.371 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:32:49.371 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:32:49.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:32:49.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:32:49.372 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:32:49.373 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:32:49.373 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:32:49.373 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:32:49.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:32:49.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:32:49.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:32:49.374 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:32:49.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:32:49.375 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:32:49.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:32:49.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:32:49.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:32:49.376 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:33:05.707 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:33:05.730 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:33:05.730 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:33:05.730 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:33:05.730 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:33:05.731 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:33:05.731 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:33:05.731 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:33:05.731 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:33:05.731 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:33:05.732 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:33:05.733 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:33:05.733 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:33:05.733 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:33:05.734 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:33:05.734 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:33:05.734 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:33:05.734 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:33:05.734 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:33:05.735 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:33:05.736 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:33:05.736 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:33:05.736 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:33:05.736 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:33:05.736 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:33:05.737 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:33:05.738 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:33:05.738 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:36:52.610 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:36:52.613 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:36:52.724 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:36:52.724 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:36:52.728 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:36:52.730 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:36:52.730 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:36:52.732 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:36:52.733 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:36:52.733 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:36:52.733 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:36:52.734 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:36:52.734 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:36:52.734 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:36:52.734 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:36:52.735 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:36:52.735 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:36:52.736 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:36:52.736 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:36:52.736 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:36:52.736 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:36:52.737 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:36:52.737 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:36:52.737 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:36:52.738 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:36:52.738 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:36:52.738 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:36:52.739 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:36:52.739 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:36:52.739 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:36:52.740 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:36:52.740 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:36:52.740 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:36:52.740 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:36:52.740 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:36:52.741 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:36:52.741 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:36:52.741 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:36:52.741 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:36:52.742 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:36:52.743 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:36:52.743 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:36:52.744 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:36:52.744 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:36:52.745 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:41:15.179 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:41:15.181 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:41:15.344 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:41:15.345 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:41:15.348 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:41:15.349 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:41:15.349 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=2, name=Morty Smith
+2025-01-06 21:41:15.351 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:41:15.351 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:41:15.351 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:41:15.351 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:41:15.352 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:41:15.353 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:41:15.354 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:41:15.355 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:41:15.356 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:41:15.357 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:41:15.358 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:41:15.358 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.19
+2025-01-06 21:41:15.358 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:41:50.553 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:41:50.579 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:41:50.580 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 19
+2025-01-06 21:41:50.580 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=1, name=Rick Sanchez
+2025-01-06 21:41:50.580 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.0
+2025-01-06 21:41:50.581 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=3, name=Summer Smith
+2025-01-06 21:41:50.581 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.1
+2025-01-06 21:41:50.581 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=4, name=Beth Smith
+2025-01-06 21:41:50.581 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.2
+2025-01-06 21:41:50.581 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=5, name=Jerry Smith
+2025-01-06 21:41:50.582 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.3
+2025-01-06 21:41:50.582 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=6, name=Abadango Cluster Princess
+2025-01-06 21:41:50.582 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.4
+2025-01-06 21:41:50.582 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=7, name=Abradolf Lincler
+2025-01-06 21:41:50.582 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.5
+2025-01-06 21:41:50.583 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=8, name=Adjudicator Rick
+2025-01-06 21:41:50.583 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.6
+2025-01-06 21:41:50.583 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=9, name=Agency Director
+2025-01-06 21:41:50.583 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.7
+2025-01-06 21:41:50.584 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=10, name=Alan Rails
+2025-01-06 21:41:50.584 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.8
+2025-01-06 21:41:50.584 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=11, name=Albert Einstein
+2025-01-06 21:41:50.584 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.9
+2025-01-06 21:41:50.584 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=12, name=Alexander
+2025-01-06 21:41:50.585 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.10
+2025-01-06 21:41:50.585 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=13, name=Alien Googah
+2025-01-06 21:41:50.585 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.11
+2025-01-06 21:41:50.585 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=14, name=Alien Morty
+2025-01-06 21:41:50.585 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.12
+2025-01-06 21:41:50.586 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=15, name=Alien Rick
+2025-01-06 21:41:50.586 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.13
+2025-01-06 21:41:50.586 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=16, name=Amish Cyborg
+2025-01-06 21:41:50.586 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.14
+2025-01-06 21:41:50.586 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=17, name=Annie
+2025-01-06 21:41:50.587 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.15
+2025-01-06 21:41:50.587 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=18, name=Antenna Morty
+2025-01-06 21:41:50.587 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.16
+2025-01-06 21:41:50.587 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=19, name=Antenna Rick
+2025-01-06 21:41:50.587 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.17
+2025-01-06 21:41:50.588 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Sono nel ciclo: id=20, name=Ants in my Eyes Johnson
+2025-01-06 21:41:50.588 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricato in tabella personaggio n.18
+2025-01-06 21:41:50.588 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:43:11.665 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 21:43:11.669 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 21:43:11.793 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:43:11.794 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:43:11.797 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 21:43:25.550 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Messaggio rimozione elemento dal database e dalla tabella.
+2025-01-06 21:43:37.418 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 21:43:37.441 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 21:43:37.442 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 21:43:37.443 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 23:39:16.272 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-06 23:39:16.277 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-06 23:39:16.576 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 23:39:16.578 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 23:39:16.583 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 23:39:33.672 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 23:39:33.713 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 23:39:33.714 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 23:39:33.715 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-06 23:39:40.331 [Thread-6] INFO  it.unipi.cartoonscatalog.SecondaryController - Messaggio rimozione elemento dal database e dalla tabella.
+2025-01-06 23:39:43.347 [Thread-7] INFO  it.unipi.cartoonscatalog.SecondaryController - Messaggio rimozione elemento dal database e dalla tabella.
+2025-01-06 23:39:45.855 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-06 23:39:45.895 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-06 23:39:45.896 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-06 23:39:45.898 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi

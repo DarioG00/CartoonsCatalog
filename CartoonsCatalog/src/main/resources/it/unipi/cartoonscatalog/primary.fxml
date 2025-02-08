@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unipi.cartoonscatalog.PrimaryController">
+   <children>
+      <Button fx:id="loadButton" layoutX="237.0" layoutY="354.0" mnemonicParsing="false" onAction="#switchToSecondaryAndLoad" prefHeight="71.0" prefWidth="167.0" text="Carica catalogo" textAlignment="CENTER" textFill="#097c85">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font></Button>
+      <ImageView fx:id="logo" fitHeight="191.0" fitWidth="345.0" layoutX="148.0" layoutY="124.0" pickOnBounds="true" preserveRatio="true" />
+      <Text layoutX="169.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 24;" text="Catalogo dei personaggi di..." textAlignment="CENTER">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font></Text>
+   </children>
+</AnchorPane>

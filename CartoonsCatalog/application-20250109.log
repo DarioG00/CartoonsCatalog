@@ -1,0 +1,93 @@
+2025-01-09 10:21:30.388 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 10:21:30.394 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 10:21:30.873 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:21:30.874 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 10:21:30.881 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 10:21:47.609 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Rimosso dal database personaggio id=6
+2025-01-09 10:22:28.076 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 10:22:28.278 [Thread-52] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:22:28.280 [Thread-52] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 19
+2025-01-09 10:22:28.281 [Thread-52] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 10:28:17.358 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 10:28:17.365 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 10:28:17.845 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:28:17.847 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 10:28:17.852 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 10:28:45.550 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 10:28:45.742 [Thread-45] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:28:45.743 [Thread-45] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 10:28:45.744 [Thread-45] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 10:33:05.588 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 10:33:05.592 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 10:33:05.895 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:33:05.895 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 10:33:05.900 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 10:33:10.774 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 10:33:10.917 [Thread-12] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 10:33:10.918 [Thread-12] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 10:33:10.918 [Thread-12] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 17:24:14.188 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 17:24:14.193 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 17:24:14.703 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 17:24:14.705 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 17:24:14.710 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 17:31:56.621 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 17:31:56.629 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 17:31:57.097 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 17:31:57.098 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 17:31:57.103 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 17:32:53.023 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 17:32:53.027 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 17:32:53.344 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 17:32:53.345 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 17:32:53.349 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 17:33:14.093 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 17:33:14.097 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 17:33:14.410 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 17:33:14.411 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 17:33:14.417 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 17:33:33.200 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 17:33:33.389 [Thread-33] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 17:33:33.390 [Thread-33] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 17:33:33.391 [Thread-33] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:43:24.277 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 19:43:24.280 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 19:43:24.603 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:43:24.603 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:43:24.606 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:43:28.465 [Thread-5] INFO  it.unipi.cartoonscatalog.SecondaryController - Rimosso dal database personaggio id=1
+2025-01-09 19:43:38.499 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:43:38.654 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:43:38.655 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 19
+2025-01-09 19:43:38.655 [Thread-8] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:43:40.776 [Thread-9] INFO  it.unipi.cartoonscatalog.SecondaryController - Rimosso dal database personaggio id=4
+2025-01-09 19:43:45.272 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:43:45.353 [Thread-14] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:43:45.353 [Thread-14] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 18
+2025-01-09 19:43:45.354 [Thread-14] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:44:40.459 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:44:40.536 [Thread-61] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:44:40.536 [Thread-61] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 18
+2025-01-09 19:44:40.537 [Thread-61] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:50:44.879 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 19:50:44.882 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 19:50:45.200 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:50:45.201 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:50:45.205 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:51:08.171 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:51:08.339 [Thread-18] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:51:08.340 [Thread-18] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:51:08.341 [Thread-18] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:52:30.192 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Ritorno della richiesta = 20
+2025-01-09 19:52:30.194 [Thread-3] INFO  it.unipi.cartoonscatalog.PrimaryController - Catalogo personaggi 'Rick and Morty' caricato.
+2025-01-09 19:52:30.405 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:52:30.406 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:52:30.411 [Thread-4] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:52:55.311 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:52:55.458 [Thread-38] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:52:55.458 [Thread-38] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:52:55.459 [Thread-38] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi
+2025-01-09 19:53:06.053 [JavaFX Application Thread] INFO  it.unipi.cartoonscatalog.CatalogController - Bottone di ritorno alla finestra secondary premuto!
+2025-01-09 19:53:06.147 [Thread-41] INFO  it.unipi.cartoonscatalog.SecondaryController - Ricevuta la risposta dal server. Inizio a caricare la tabella...
+2025-01-09 19:53:06.149 [Thread-41] INFO  it.unipi.cartoonscatalog.SecondaryController - Dimensione dati tornati per la tabella = 20
+2025-01-09 19:53:06.149 [Thread-41] INFO  it.unipi.cartoonscatalog.SecondaryController - Caricati tutti i personaggi

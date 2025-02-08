@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.geometry.Insets?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.unipi.cartoonscatalog.CatalogController">
+   <children>
+      <ImageView fx:id="imageCharacter" fitHeight="121.0" fitWidth="126.0" pickOnBounds="true" preserveRatio="true">
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></ImageView>
+      <Text fx:id="nameText" strokeType="OUTSIDE" strokeWidth="0.0" text="Name: " textAlignment="CENTER" wrappingWidth="171.9775390625">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></Text>
+      <Text fx:id="statusText" strokeType="OUTSIDE" strokeWidth="0.0" text="Status: " textAlignment="CENTER" wrappingWidth="175.98095703125">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></Text>
+      <Text fx:id="speciesText" strokeType="OUTSIDE" strokeWidth="0.0" text="Species: " textAlignment="CENTER" wrappingWidth="174.7626953125">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></Text>
+      <Text fx:id="genderText" strokeType="OUTSIDE" strokeWidth="0.0" text="Gender: " textAlignment="CENTER" wrappingWidth="179.87646484375">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></Text>
+      <Text fx:id="originText" strokeType="OUTSIDE" strokeWidth="0.0" text="Origin: " textAlignment="CENTER" wrappingWidth="175.4716796875">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="5.0" />
+         </VBox.margin></Text>
+      <HBox alignment="CENTER" prefHeight="67.0" prefWidth="600.0">
+         <children>
+            <Button fx:id="previousButton" mnemonicParsing="false" onAction="#goToPreviousCharacter" text="&lt;&lt;">
+               <HBox.margin>
+                  <Insets right="60.0" />
+               </HBox.margin>
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="nextButton" mnemonicParsing="false" onAction="#goToNextCharacter" text="&gt;&gt;">
+               <HBox.margin>
+                  <Insets left="60.0" />
+               </HBox.margin>
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+      <Button fx:id="backButton" mnemonicParsing="false" onAction="#backToSecondary" text="Indietro">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Button>
+   </children>
+</VBox>
